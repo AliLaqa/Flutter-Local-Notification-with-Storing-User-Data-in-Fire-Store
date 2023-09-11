@@ -1,0 +1,3 @@
+This project is abou sending Notifications using Firebase with redirecting user to Message page
+and sending message with notification in payload,also in this project we are sending notifications
+from one device to another using the reciver mobile device token in active, background or kill state.
